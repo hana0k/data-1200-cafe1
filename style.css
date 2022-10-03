@@ -145,7 +145,7 @@ footer p a {
 
 .Meny .Drinks {
   background-color: rgba(113, 62, 39, 0.354);
-  height: 1250px;
+  height: 1150px;
   width: 50%;
   float: left;
 
@@ -153,14 +153,14 @@ footer p a {
 
 .Meny .Dessert{
   background-color: rgba(113, 62, 39, 0.354);
-  height: 1250px;
+  height: 1150px;
   width: 50%;
   float: left;
 }
 
 .Meny .Food{
   background-color: rgba(124, 84, 59, 0.6);
-  height: 1250px;
+  height: 1150px;
   width: 50%;
   float: right;
 
@@ -249,7 +249,7 @@ footer p a {
 
 .Food h5{
   color: white;
-  font-family: Cedarville cursive;
+  font-family: fantasy;
   text-align: center;
 }
 
@@ -259,6 +259,3 @@ footer p a {
   text-align: center;
 }
 
-a:hover {
-  background-color: rgb(162, 118, 38);
-}
